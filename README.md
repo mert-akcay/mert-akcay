@@ -6,7 +6,7 @@
 💻 I’m currently working on some ReactJS Projects<br>
 📚 I’m graduated from Yıldız Technical University in Turkey<br>
 📈 I experienced in HTML,CSS,JavaScript,ReactJS and Python.<br>
-📖 I'm currently learning Redux and Flutter.<br>
+📖 I'm currently learning Node.js and Flutter.<br>
 🏆 My certifications: 
 <ul>
   <li>Techcareer: Flutter Bootcamp</li>
