@@ -6,9 +6,10 @@
 💻 I’m currently working on some ReactJS Projects<br>
 📚 I’m graduated from Yıldız Technical University in Turkey<br>
 📈 I experienced in HTML,CSS,JavaScript,ReactJS and Python.<br>
-📖 I'm currently learning Node.js and Flutter.<br>
+📖 I'm currently learning Node.js,React and Flutter.<br>
 🏆 My certifications: 
 <ul>
+  <li>Gusto&RemoteTeam and Patika.dev NodeJS Bootcamp</li>
   <li>Techcareer: Flutter Bootcamp</li>
   <li>Michigan State University: Game Design and Development Specialization</li>
   <li>Patika.dev: FrontEnd Web Development</li>
@@ -25,6 +26,7 @@
 <strong>💡 My Languages :</strong><br><br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://shields.io/badge/node-js"/> 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
